@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(
+    180deg,
+    #2b0040 0%,
+    #1a0029 35%,
+    #12001f 70%,
+    #0d0014 100%
+  );
+  color: #ffffff;
+}
+
+
+.divider{
+    background-color: #919da7;
+}
