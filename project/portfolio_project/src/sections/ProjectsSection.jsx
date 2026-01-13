@@ -34,12 +34,7 @@ import easyTravelImage from "../assets/easy_travel_image.png";
 import makarisImage from "../assets/makaris_image.png";
 import nutriappImage from "../assets/nutriapp_image.png";
 
-/*
 
-  
-  "prometheus_image.png": prometheusImage,
-
-  */
 
 const projectImages = {
   "pvps_image.png": pvpsImage,
