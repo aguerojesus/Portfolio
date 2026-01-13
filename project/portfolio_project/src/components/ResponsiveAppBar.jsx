@@ -155,7 +155,7 @@ function ResponsiveAppBar() {
 
             {/* DOWNLOAD CV DESKTOP */}
             <Button
-              href="/CV_Yexinio_Aguero_Hidalgo.pdf"
+              href="/Portfolio/CV_Yexinio_Aguero_Hidalgo.pdf"
               target="_blank"
               startIcon={<DownloadIcon />}
               sx={{
